@@ -16,7 +16,7 @@ A. Mosquitto Server:
 
 B. NodeJS and HTML:
   1. npm init -y
-  2. npm install socket.io nodemon mqtt
+  2. npm install socket.io nodemon mqtt express
   3. create folder 'public/'
   4. copy mqtt.html to public/
   5. unzip this file and create 'jquery', 'image' folder inside 'public/' (https://github.com/tdreyno/iphone-style-checkboxes/archive/v1.zip)
